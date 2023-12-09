@@ -1,0 +1,13 @@
+.Banner {
+    margin: 0.5vw;
+    padding: 0.5vw 2vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: white;
+    background-color: #6A0DAD; /* Purple color */
+    border: 0.2vw solid black;
+    border-radius: 2vw;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  

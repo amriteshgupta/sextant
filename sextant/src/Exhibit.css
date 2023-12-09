@@ -1,0 +1,30 @@
+.Exhibit {
+    float: left;
+    margin: 1vw;
+    padding: 1vw 2vw;
+    text-align: center;
+    color: #FFD700; /* Goldenrod color */
+    background-color: #0053A1; /* Blue color */
+    border: 0.2vw solid #008000; /* Green color */
+    border-radius: 2vw;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .ExhibitHeading {
+    font-weight: bold;
+    font-size: 1.5vw;
+  }
+  
+  .ExhibitContent {
+    margin: 1vw;
+    padding: 1vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: #FFD700; /* Goldenrod color */
+    background-color: #0053A1; /* Blue color */
+    border: 0.2vw solid #008000; /* Green color */
+    border-radius: 2vw;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
